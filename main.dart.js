@@ -52835,7 +52835,7 @@ G.F7.prototype={
 R:function(a,b){var s=null,r=P.bw(C.e.aK(255*this.a.c),0,0,0),q=t.w,p=t.Y
 return M.cu(C.oS,new T.hh(new S.aF(0,1600,0,1/0),T.B_(H.d([new A.he(L.t0("C",s,A.jj(s,s,C.j,s,s,s,s,s,"Double",s,s,48,s,s,s,s,!0,s,s,s,s,s,s)),Y.a1Y(0),s),T.B_(H.d([new G.o0("About Me",Y.a1Y(1),s),T.dg(s,s,b.U(q).f.a.a/12),new G.o0("Projects",Y.a1Y(2),s),T.dg(s,s,b.U(q).f.a.a/12),new G.o0("Resume",new G.Yo(this),s)],p),C.da)],p),C.n0),s),r,s,s,s,s,C.vU,s)}}
 G.Yo.prototype={
-$0:function(){C.bj.XZ(window,"build/web/Peter Jiang Resume CS.pdf","PlaceholderName")},
+$0:function(){C.bj.XZ(window,"https://github.com/CheatCod/flutter-web/blob/main/Peter%20Jiang%20Resume%20CS.pdf","PlaceholderName")},
 $S:1}
 G.o0.prototype={
 R:function(a,b){var s=null
