@@ -52661,17 +52661,8 @@ $S:13}
 F.z5.prototype={
 R:function(a,b){return new S.qe(new Y.pE(null),"Peter Jiang' Website",X.a6v(null,C.xC),!1,null)}}
 Y.w6.prototype={
-R:function(a,b){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=b.X(j).f.a,h=i.a,g=i.b
-g=h<640?g+g/4.5*4:g+g/5.5+50
-s=T.dw(k,100,k)
-r=t.Y
-q=T.oR(H.d([M.cu(k,k,C.j,k,k,7,k,k,70),T.dw(k,15,k),O.Bf("About me",B.yd(C.j,48,C.aR),C.cm),T.dw(k,20,k),M.cu(k,O.Bf("Currently a CS student at the University of Waterloo, I am a technology enthusiast. I enjoy utilizing technology to solve practical problems, and have done so with my various software projects. \n\nI also consider myself a creative person, with a special interest in motion graphics. Having been multiple design leads, I hope to combine my creativity and technology to bring something truly unique to this world.",Z.a0J(k,k,C.j,k,k,k,k,"Hind",k,18,k,C.aQ,P.aA([new Z.az(C.bn,C.x),new F.aC("fa60918477db30de0e2a697db644a3ada9014744668b10708e487b2731a95e70",152472),new Z.az(C.p,C.x),new F.aC("c6c2ab346a94eb5613fbc0721b8b1b9062968050182abaa239ca636a32911d90",152124),new Z.az(C.aa,C.x),new F.aC("d4fd25d01c80707a336cb4b040f3a52767f1cd612f042572d044e0b575c4d05b",151708),new Z.az(C.fb,C.x),new F.aC("98d33c7c6f79077dfb001ecff6aa383168fca5cebe664a277c74acff145e6685",151452),new Z.az(C.aE,C.x),new F.aC("2e7dd62cde147432a10070b99d17f623f3c13f9c8796be3afa987f6e0707f030",149692)],t.Aw,t.pX),k,k,k,k,k,k,k,k),C.cm),k,k,k,231,new V.aL(30,0,30,0),k,552)],r),C.f7,C.dc)
-p=T.dw(k,150,k)
-o=M.cu(k,k,C.j,k,k,7,k,k,70)
-n=T.dw(k,15,k)
-m=O.Bf("Projects",B.yd(C.j,48,C.aR),C.cm)
-l=this.c
-return M.cu(C.a7,T.oR(H.d([s,q,p,T.oR(H.d([o,n,m,b.X(j).f.a.a<640?T.oR(l,C.f7,C.ku):T.AV(l,C.ku)],r),C.f7,C.dc)],r),C.f7,C.dc),new P.H(4280557104),k,k,g,k,k,h)}}
+R:function(a,b){var s=null,r=t.w,q=b.X(r).f.a.a,p=q<640?1500:1100,o=T.dw(s,100,s),n=t.Y,m=T.oR(H.d([M.cu(s,s,C.j,s,s,7,s,s,70),T.dw(s,15,s),O.Bf("About me",B.yd(C.j,48,C.aR),C.cm),T.dw(s,20,s),M.cu(s,O.Bf("Currently a CS student at the University of Waterloo, I am a technology enthusiast. I enjoy utilizing technology to solve practical problems, and have done so with my various software projects. \n\nI also consider myself a creative person, with a special interest in motion graphics. Having been multiple design leads, I hope to combine my creativity and technology to bring something truly unique to this world.",Z.a0J(s,s,C.j,s,s,s,s,"Hind",s,18,s,C.aQ,P.aA([new Z.az(C.bn,C.x),new F.aC("fa60918477db30de0e2a697db644a3ada9014744668b10708e487b2731a95e70",152472),new Z.az(C.p,C.x),new F.aC("c6c2ab346a94eb5613fbc0721b8b1b9062968050182abaa239ca636a32911d90",152124),new Z.az(C.aa,C.x),new F.aC("d4fd25d01c80707a336cb4b040f3a52767f1cd612f042572d044e0b575c4d05b",151708),new Z.az(C.fb,C.x),new F.aC("98d33c7c6f79077dfb001ecff6aa383168fca5cebe664a277c74acff145e6685",151452),new Z.az(C.aE,C.x),new F.aC("2e7dd62cde147432a10070b99d17f623f3c13f9c8796be3afa987f6e0707f030",149692)],t.Aw,t.pX),s,s,s,s,s,s,s,s),C.cm),s,s,s,231,new V.aL(30,0,30,0),s,552)],n),C.f7,C.dc),l=T.dw(s,150,s),k=M.cu(s,s,C.j,s,s,7,s,s,70),j=T.dw(s,15,s),i=O.Bf("Projects",B.yd(C.j,48,C.aR),C.cm),h=this.c
+return M.cu(C.a7,T.oR(H.d([o,m,l,T.oR(H.d([k,j,i,b.X(r).f.a.a<640?T.oR(h,C.f7,C.ku):T.AV(h,C.ku)],n),C.f7,C.dc)],n),C.f7,C.dc),new P.H(4280557104),s,s,p,s,s,q)}}
 G.yt.prototype={
 R:function(a,b){var s=null,r=$.a3T(),q=t.w,p=b.X(q).f,o=b.X(q).f,n=b.X(q).f
 q=b.X(q).f
